@@ -13,6 +13,7 @@
     "axios": "^1.7.7",
     "date-fns": "^4.1.0",
     "lucide-react": "^0.454.0",
+    "miragejs": "^0.1.48",
     "next": "15.0.3",
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106",
@@ -20,6 +21,8 @@
     "recharts": "^2.13.3"
   },
   "devDependencies": {
+    "@faker-js/faker": "^9.2.0",
+    "@miragejs/server": "^0.1.29",
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.0.1",
     "@testing-library/user-event": "^14.5.2",
